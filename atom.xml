@@ -3,11 +3,11 @@
   <title>朱悦的博客</title>
   
   
-  <link href="http://example.com/2022/10/11/hello-world/atom.xml" rel="self"/>
+  <link href="https://zhuyueblog.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/2022/10/11/hello-world/"/>
+  <link href="https://zhuyueblog.github.io/project/"/>
   <updated>2022-10-11T04:34:34.584Z</updated>
-  <id>http://example.com/2022/10/11/hello-world/</id>
+  <id>https://zhuyueblog.github.io/project/</id>
   
   <author>
     <name>zhuyue</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/11/hello-world/2022/10/11/hello-world/"/>
-    <id>http://example.com/2022/10/11/hello-world/2022/10/11/hello-world/</id>
+    <link href="https://zhuyueblog.github.io/project/2022/10/11/hello-world/"/>
+    <id>https://zhuyueblog.github.io/project/2022/10/11/hello-world/</id>
     <published>2022-10-11T04:34:34.584Z</published>
     <updated>2022-10-11T04:34:34.584Z</updated>
     
