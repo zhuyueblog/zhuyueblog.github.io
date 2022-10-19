@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-17T09:07:25.697Z</updated>
+  <updated>2022-10-19T10:15:33.140Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>喷嚏</title>
+    <link href="http://example.com/2022/10/19/%E6%97%A5%E5%BF%975/"/>
+    <id>http://example.com/2022/10/19/%E6%97%A5%E5%BF%975/</id>
+    <published>2022-10-19T10:10:36.000Z</published>
+    <updated>2022-10-19T10:15:33.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>原来喷嚏也有意义！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;原来喷嚏也有意义！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有趣</title>
+    <link href="http://example.com/2022/10/18/%E6%97%A5%E5%BF%974/"/>
+    <id>http://example.com/2022/10/18/%E6%97%A5%E5%BF%974/</id>
+    <published>2022-10-18T10:07:57.000Z</published>
+    <updated>2022-10-19T10:12:03.089Z</updated>
+    
+    <content type="html"><![CDATA[<p>宇宙的有趣我才不在意，<br>我在意的是……..</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;宇宙的有趣我才不在意，&lt;br&gt;我在意的是……..&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>宿醉</title>
     <link href="http://example.com/2022/10/16/%E6%97%A5%E5%BF%973/"/>
     <id>http://example.com/2022/10/16/%E6%97%A5%E5%BF%973/</id>
     <published>2022-10-16T11:02:00.000Z</published>
-    <updated>2022-10-17T09:07:25.697Z</updated>
+    <updated>2022-10-19T10:14:34.185Z</updated>
     
     <content type="html"><![CDATA[<p>似乎宿醉后的第二天并没有那么难受，可能是因为醒来的第一眼看到的是你吧！</p>]]></content>
     
